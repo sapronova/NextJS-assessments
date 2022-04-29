@@ -1,0 +1,50 @@
+{
+  "assessments": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "level": 4,
+      "updated_knowledge": [
+        "Knowledge of patterns: e.g: Factory, Observer, Facade",
+        "Familiar with JSDoc",
+        "Proxy",
+        "WeakMap and WeakSet",
+        "Symbols",
+        "Iterators",
+        "Memory Leak"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ReactJS",
+      "level": 4,
+      "updated_knowledge": [
+        "Have an idea of the internal structure of the technology",
+        "Familiar with PWA",
+        "Deep knowledge of SSR, Next.js",
+        "Familiar with React test libraries",
+        "Strong knowledge of performance optimization"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TypeScript",
+      "level": 3,
+      "updated_knowledge": [
+        "Have an experience of leveraging utilities/libraries/plugins related to the skill/technology",
+        "Knowledge of how to create a custom decorator",
+        "Familiar with Mapped Types",
+        "Familiar with Namespaces",
+        "Familiar with Utility types",
+        "Familiar with optional chaining",
+        "Type Compatibility",
+        "Familiar with Type Intersection",
+        "Familiar with Type aliases",
+        "Familiar with noImplicitAny and strictNullChecks"
+      ]
+    }
+  ],
+  "about": {
+    "title": "There you can see which skills should be updated to improve yourself as a FE-Developer!"
+  }
+}
